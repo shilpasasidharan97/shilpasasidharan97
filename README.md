@@ -1,4 +1,4 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
+[![MasterHead](https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp)]
 <h1 align="center">Hi 👋, I'm Shilpa</h1>
 <h3 align="center">Passionate Python full-stack developer, committed to creating robust and scalable solutions across the entire web development stack.</h3>
 
