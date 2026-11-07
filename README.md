@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpasasidharan97&label=Profile%20views&color=0e75b6&style=flat" alt="shilpasasidharan97" /> </p>
 
-- 🔭 I’m currently working on [Eriga](https://eriga.in/)
+- 🔭 I’m currently working on [OrnaOS] - A renatl application
 
-- 🌱 I’m currently learning **Fast API**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://shilpa.xiov.online/](https://shilpa.xiov.online/)
 
